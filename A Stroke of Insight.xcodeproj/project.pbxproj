@@ -11,6 +11,7 @@
 		7469C5542A75711A005EB8B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C5532A75711A005EB8B7 /* ContentView.swift */; };
 		7469C5562A75711C005EB8B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7469C5552A75711C005EB8B7 /* Assets.xcassets */; };
 		7469C5592A75711C005EB8B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7469C5582A75711C005EB8B7 /* Preview Assets.xcassets */; };
+		7469C5602A757187005EB8B7 /* HeartShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7469C55F2A757187005EB8B7 /* HeartShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7469C5532A75711A005EB8B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7469C5552A75711C005EB8B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7469C5582A75711C005EB8B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7469C55F2A757187005EB8B7 /* HeartShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7469C5512A75711A005EB8B7 /* A_Stroke_of_InsightApp.swift */,
 				7469C5532A75711A005EB8B7 /* ContentView.swift */,
+				7469C55F2A757187005EB8B7 /* HeartShape.swift */,
 				7469C5552A75711C005EB8B7 /* Assets.xcassets */,
 				7469C5572A75711C005EB8B7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7469C5602A757187005EB8B7 /* HeartShape.swift in Sources */,
 				7469C5542A75711A005EB8B7 /* ContentView.swift in Sources */,
 				7469C5522A75711A005EB8B7 /* A_Stroke_of_InsightApp.swift in Sources */,
 			);
